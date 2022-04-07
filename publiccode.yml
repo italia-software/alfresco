@@ -1,0 +1,73 @@
+# This repository adheres to the publiccode.yml standard by including this 
+# metadata file that makes public software easily discoverable.
+# More info at https://github.com/italia/publiccode.yml
+
+publiccodeYmlVersion: '0.2'
+categories:
+  - content-management
+description:
+  it:
+    apiDocumentation: 'https://docs.alfresco.com/content-services/6.0/develop/rest-api-guide/'
+    documentation: 'https://docs.alfresco.com/'
+    features:
+      - Content management
+    genericName: alfresco
+    longDescription: |
+      Il software open source Enterprise Content Management gestisce qualsiasi 
+      tipo di contenuto, consentendo agli utenti di condividere e collaborare 
+      facilmente sui contenuti.
+
+
+      Alfresco Content Services offre funzionalità complete per la gestione  dei
+      contenuti aziendali (ECM) che ti consentono di lavorare con i  contenuti
+      direttamente all'interno delle suite e degli strumenti di  produttività
+      più diffusi al mondo, senza necessità di passare da  un'applicazione
+      all'altra.
+
+        
+
+      ## Funzionalità di Alfresco ECM
+
+        
+
+      Alfresco Content Services offre funzionalità di gestione dei  contenuti
+      aziendali (ECM) aperte, flessibili e altamente scalabili a cui  si
+      aggiungono gli ulteriori vantaggi forniti da una piattaforma di  servizi
+      di contenuti che rende i contenuti accessibili,  indipendentemente dal
+      luogo e dalla modalità di lavoro, attraverso  semplici integrazioni con le
+      applicazioni aziendali di uso quotidiano.
+    shortDescription: ' Community Content Service Repository '
+developmentStatus: stable
+it:
+  conforme:
+    gdpr: false
+    lineeGuidaDesign: false
+    misureMinimeSicurezza: false
+    modelloInteroperabilita: false
+  countryExtensionVersion: '0.2'
+  piattaforme:
+    anpr: false
+    cie: false
+    pagopa: false
+    spid: false
+landingURL: 'https://www.alfresco.com/it/ecm-software/alfresco-community-edition'
+legal:
+  license: LGPL-3.0-only
+  mainCopyrightOwner: 'Hyland Software, Inc. '
+  repoOwner: 'Hyland Software, Inc. '
+localisation:
+  availableLanguages:
+    - it
+    - en
+  localisationReady: false
+maintenance:
+  contacts:
+    - name: 'Hyland Software, Inc.'
+  type: community
+name: Alfresco
+platforms:
+  - web
+releaseDate: '2022-04-07'
+softwareType: standalone/web
+softwareVersion: 23.1.0.11
+url: 'https://github.com/Alfresco/alfresco-community-repo'
