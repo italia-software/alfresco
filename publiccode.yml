@@ -65,6 +65,7 @@ maintenance:
     - name: 'Hyland Software, Inc.'
   type: community
 name: Alfresco
+logo: https://upload.wikimedia.org/wikipedia/commons/2/23/Alfresco-logo.svg
 platforms:
   - web
 releaseDate: '2022-04-07'
